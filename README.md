@@ -15,7 +15,7 @@
 > [!IMPORTANT]
 > <h3>교제: 파이썬으로 쉽게 배우는 자료구조(개정판)</h3>
 > <ul>
->   <li>예제, 연습문제 손코딩 연습</li>
+>   <li>예제코드, 연습문제 손코딩 연습</li>
 > </ul>
 > <img width="644" alt="image" src="https://github.com/user-attachments/assets/ee7a60f4-0d09-4cb7-8c5e-e7e1eb9743d1" />
 > <img width="647" alt="image" src="https://github.com/user-attachments/assets/589bcd66-4002-437c-93d0-fd047334bd18" />
